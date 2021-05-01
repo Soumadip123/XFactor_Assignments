@@ -1,14 +1,14 @@
 # Assignment 1
-Questions
+## Questions
 
 1. This problem is know as Clock angle problem where we need to find angle between hands of an analog clock at a given time. public Double findAngle(Integer hour, Integer minute)
  
-Example 1	
+- Example 1	
 Time : 12:45	
 Input : hour = 12, Minute = 45	
 Output : 112.5°	
 
-Example 2
+- Example 2
 Time : 3:30
 Input : hour = 3, Minute = 30
 Output : 75°
